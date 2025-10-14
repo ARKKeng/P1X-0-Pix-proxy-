@@ -2,6 +2,7 @@
 This is a very simple proxy used against goguardian ONLY this won't work for securly or others 
 
 https://sites.google.com/southsideschools.org/p1x-0/home
+
 LINK ^
 
 <img width="210" height="344" alt="image" src="https://github.com/user-attachments/assets/7ea3eb13-b7cc-47bc-bf98-a7608650aea0" />
