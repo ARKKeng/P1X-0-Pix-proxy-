@@ -1,5 +1,5 @@
-# P1X-0-Pix-proxy-
-This is a very simple proxy used against goguardian ONLY this won't work for securly or others 
+# P1X-0-Pix-proxy- BETA - V10.12.25
+This is a very simple proxy used against goguardian this hasn't been tested on any other's so feel free to share the results. 
 
 https://sites.google.com/southsideschools.org/p1x-0/home
 
