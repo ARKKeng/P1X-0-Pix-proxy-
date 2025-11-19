@@ -5,14 +5,13 @@ https://sites.google.com/southsideschools.org/p1x-0/home
 
 LINK ^
 
-<img width="210" height="344" alt="image" src="https://github.com/user-attachments/assets/7ea3eb13-b7cc-47bc-bf98-a7608650aea0" />
+<img width="185" height="377" alt="image" src="https://github.com/user-attachments/assets/c01ea883-e62a-489c-9e78-f6fcf41c7cb0" />
 
-simple UI
+<img width="1291" height="339" alt="image" src="https://github.com/user-attachments/assets/134bd253-f202-4da3-9793-c02540a7c629" />
 
-<img width="966" height="160" alt="image" src="https://github.com/user-attachments/assets/20bb5d49-51be-4fcd-9fce-0257cef84012" />
+ New UI 
 
-starts off with youtube but you can get to google by searhing the google link or Bar<anything<press google icon< on  google search page.
+ <img width="1173" height="577" alt="image" src="https://github.com/user-attachments/assets/abc8074e-541b-412a-adaa-da7fc3864a84" />
+New chrome-like interface
 
-i am working on active updates and a chat feature, howver there is a about blank cloaked version inside of it aswell.
-
-if you have any suggestions then fork this or by any other means contact me.
+![ARkkeng on Github](https://github.com/user-attachments/assets/cb6211a5-5322-4123-8cb8-db0238da0283)
