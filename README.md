@@ -1,5 +1,5 @@
 # P1X-0-Pix-proxy- BETA - V0. 1
-This is a very simple proxy used against goguardian this hasn't been tested on any other's so feel free to share the results. 
+This is a very simple proxy used against Goguardian. This hasn't been tested on any other, so feel free to test :)
 
 https://sites.google.com/southsideschools.org/p1x-0/home
 
